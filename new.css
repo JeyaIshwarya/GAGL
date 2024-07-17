@@ -1,0 +1,37 @@
+h1,p /*this is */
+{
+    color:rgb(62, 226, 199);
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#para1
+{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1.classname
+{
+    background-color: red;
+    opacity:0.2 ;
+    background-image: url(flowerimage.jpg);
+    
+
+}
+*
+{
+    font-family: cursive;
+}
+body
+{
+    background-image: url(flowerimage.jpg);
+    background-repeat: no-repeat;
+    background-position-x:right bottom ;
+    background-attachment: scroll;
+    ma
+
+}
